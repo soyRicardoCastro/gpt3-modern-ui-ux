@@ -13,7 +13,7 @@ import possibility from "../assets/possibility.png"
 import shopify from "../assets/shopify.png"
 import slack from "../assets/slack.png"
 
-export default {
+export {
   ai,
   atlassian,
   blog01,
